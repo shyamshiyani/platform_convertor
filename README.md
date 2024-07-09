@@ -1,16 +1,24 @@
-# platform_convertor
+# Platform Converter App
 
-A new Flutter project.
+## Introduction
+___
+Platform Converter App Documentation
+___
 
-## Getting Started
+1. Introduction:
 
-This project is a starting point for a Flutter application.
+Platform Converter is a versatile mobile application designed to enhance productivity by providing users with functionalities such as adding contacts, making calls, self-chat, and changing the date and time. This app aims to simplify everyday tasks and improve user efficiency.
 
-A few resources to get you started if this is your first Flutter project:
+2. Features:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Add Contact
+- Users can easily add new contacts to their address book.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Call
+- Users can make calls directly from the app.
+
+### Self Chat
+- Users can send messages to themselves for quick notes or reminders.
+
+### Change Date and Time
+- Users can modify the system date and time as per their requirements.
